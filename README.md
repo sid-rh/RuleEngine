@@ -4,7 +4,7 @@ This is a rule engine which uses Abstract Syntax Tree (AST) to represent conditi
 
 ## High Level Design Diagram
 
-![High Level Diagram](https://github.com/sid-rh/WeatherMonitoring/blob/main/HLD.drawio.png)
+![High Level Diagram](https://github.com/sid-rh/RuleEngine/blob/main/RuleEngine.drawio.png)
 
 ## Backend Setup
 
