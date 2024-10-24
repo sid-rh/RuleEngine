@@ -1,4 +1,4 @@
-# Weather Monitoring System
+# Rule Engine
 
 This is a rule engine which uses Abstract Syntax Tree (AST) to represent conditional rules and allow for dynamic creation,combination, and modification of these rules. The system consists of a **Backend** powered by **Node.js** and **Express.js**, and a **Frontend** built using **React**.
 
